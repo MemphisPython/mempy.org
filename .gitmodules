@@ -1,0 +1,3 @@
+[submodule "MemphisPython.github.io"]
+	path = MemphisPython.github.io
+	url = git@github.com:MemphisPython/MemphisPython.github.io.git
