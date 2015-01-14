@@ -20,10 +20,7 @@ just create a file.
 * For announcments, create a file in ``content/announcements/``.
 * Stand-alone pages go in ``content/pages/``
 
-build and deploy
-----------------
-
-(todo)
+Once you've added your new content, commit it and send a Pull Request.
 
 
 .. _`pelican`: http://alexis.notmyidea.org/pelican/
