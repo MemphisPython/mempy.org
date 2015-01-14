@@ -44,3 +44,5 @@ Please RSVP at one of the following:
 * `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/219015182/>`_
 * Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
 * Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+
