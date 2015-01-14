@@ -8,4 +8,4 @@ html:
 	pelican -o MemphisPython.github.io -s settings.py content
 
 deploy:
-	cd MemphisPython.github.io && git add -A && git commit -am "updating" && git push && cd .. && git add MemphisPython.github.io && git commit -m "updating output"
+	cd MemphisPython.github.io && git add -A && git commit -am "updating" && git push && cd ..
