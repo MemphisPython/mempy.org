@@ -8,16 +8,22 @@ You can get it with::
 
     pip install -r requirements.txt
 
-deploy
-------
 
-To generate the site and deploy:
+contributing
+------------
 
-1. Fork this repo.
-2. Add/Edit your content (e.g. ``content/meetings/YYYY-MM-DD.rst``)
-3. Run Pelican (from the root of the project, run ``make``)
-4. Commit your changes and push back up to github.
-5. Send me a Pull Request.
+Content for the site is in the ``content`` directory, so to contribute a post,
+just create a file.
+
+* For monthly meeting information, create a ``content/meetings/YYYY-MM-DD.rst``
+  file and add the appropriate content.
+* For announcments, create a file in ``content/announcements/``.
+* Stand-alone pages go in ``content/pages/``
+
+build and deploy
+----------------
+
+(todo)
 
 
 .. _`pelican`: http://alexis.notmyidea.org/pelican/
