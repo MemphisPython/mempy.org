@@ -52,6 +52,7 @@ The Zen of Python, by Tim Peters
 the Zen of Python.
 
 ::
+
 >>> import this
 
     Beautiful is better than ugly.
