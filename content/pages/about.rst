@@ -30,6 +30,7 @@ As members of the python community, we are:
 * Considerate
 * Respectful
 
+-------------------------------------------------------------------------------
 
 Contact Us
 ----------
@@ -44,6 +45,7 @@ or follow us online:
 * `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/>`_ as a
   member of the *Memphis Technology User Groups*.
 
+-------------------------------------------------------------------------------
 
 The Zen of Python, by Tim Peters
 --------------------------------
@@ -53,7 +55,7 @@ the Zen of Python.
 
 ::
 
->>> import this
+    >>> import this
 
     Beautiful is better than ugly.
     Explicit is better than implicit.
