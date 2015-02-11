@@ -7,6 +7,12 @@ February 16, 2015
 :author: Brad Montgomery
 
 
+Welcome to the February 2015 python meetup! We're trying something new again
+this month with a *mini workshop*. So, if you've never written a line of python,
+but you'd like to learn, this would be a great meeting to attend!
+
+Read on for more details.
+
 Time & Date
 -----------
 | Time: 6:30pm - 8:30pm
@@ -38,4 +44,6 @@ Please RSVP at one of the following:
 Agenda
 ------
 
-We're still working on a list of speakers. Want to give a 5 or 10-minute talk? Get in touch with @MemphisPython on twitter or email brad@mempy.org.
+1. Fun with Markov Chains, by `Brad Montgomery <https://twitter.com/bkmontgomery>`_: A short talk about generating funny text.
+
+2. Mini Workshop: Build a command-line ToDo app, by `Douglas Starnes <https://twitter.com/poweredbyaltnet>`_: A hands-on workshop that guides you in building a simple python application. Bring a laptop, and we'll help with the rest.
