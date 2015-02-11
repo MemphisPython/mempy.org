@@ -1,5 +1,5 @@
 all:
-	make update; make html; make deploy;
+	make update; make html; make deploy; make finish;
 
 update:
 	git submodule update --remote --merge
@@ -9,3 +9,6 @@ html:
 
 deploy:
 	cd MemphisPython.github.io && git add -A && git commit -am "updating" && git push && cd ..
+
+finish:
+	git add MemphisPyhon.github.io; git commit -m "updating output"; git push;
