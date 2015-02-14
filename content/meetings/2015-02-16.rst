@@ -6,6 +6,12 @@ February 16, 2015
 :category: meetings
 :author: Brad Montgomery
 
+**Weather Update**: It looks as if there's bad weather in the forecast for
+Monday. If we do get inclement weather, we'll postpone this meeting. Watch our
+`twitter feed (@MemphisPython) <https://twitter.com/memphispython>`_ on Monday
+for further details.
+
+----
 
 Welcome to the February 2015 python meetup! We're trying something new again
 this month with a *mini workshop*. So, if you've never written a line of python,
