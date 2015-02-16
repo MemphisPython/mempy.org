@@ -6,6 +6,8 @@ February 16, 2015
 :category: meetings
 :author: Brad Montgomery
 
+**Meeting Postponed**: We're moving this month's meeting to next week, Feb 23rd.
+
 **Weather Update**: It looks as if there's bad weather in the forecast for
 Monday. If we do get inclement weather, we'll postpone this meeting. Watch our
 `twitter feed (@MemphisPython) <https://twitter.com/memphispython>`_ on Monday
@@ -22,7 +24,7 @@ Read on for more details.
 Time & Date
 -----------
 | Time: 6:30pm - 8:30pm
-| Date: Monday, February 16th, 2015
+| Date: Monday, February 23rd, 2015
 
 Location
 --------
