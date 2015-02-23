@@ -6,6 +6,16 @@ February 16, 2015
 :category: meetings
 :author: Brad Montgomery
 
+
+**Update for Feb 23**:  We're still on for tonight! Mosaik has given us a
+doorcode, so to get in the building use::
+
+    8737#
+
+Then, take the first right and go all the way down the long hallway.
+
+----
+
 **Meeting Postponed**: We're moving this month's meeting to next week, Feb 23rd.
 
 **Weather Update**: It looks as if there's bad weather in the forecast for
