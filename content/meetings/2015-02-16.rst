@@ -62,6 +62,6 @@ Please RSVP at one of the following:
 Agenda
 ------
 
-1. Fun with Markov Chains, by `Brad Montgomery <https://twitter.com/bkmontgomery>`_: A short talk about generating funny text.
+1. `Fun with Markov Chains <https://speakerdeck.com/bkmontgomery/fun-with-markov-chains>`_, by `Brad Montgomery <https://twitter.com/bkmontgomery>`_: A short talk about generating funny text.
 
-2. Mini Workshop: Build a command-line ToDo app, by `Douglas Starnes <https://twitter.com/poweredbyaltnet>`_: A hands-on workshop that guides you in building a simple python application. Bring a laptop, and we'll help with the rest.
+2. Mini Workshop: `Build a command-line ToDo app <https://gist.github.com/douglasstarnes/87dffc4212f3167bcb18>`_, by `Douglas Starnes <https://twitter.com/poweredbyaltnet>`_: A hands-on workshop that guides you in building a simple python application. Bring a laptop, and we'll help with the rest.
