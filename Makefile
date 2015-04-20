@@ -11,4 +11,4 @@ deploy:
 	cd MemphisPython.github.io && git add -A && git commit -am "updating" && git push && cd ..
 
 finish:
-	git add MemphisPyhon.github.io; git commit -m "updating output"; git push;
+	git add MemphisPython.github.io; git commit -m "updating output"; git push;
