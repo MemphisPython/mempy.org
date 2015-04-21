@@ -31,7 +31,8 @@ Agenda
 
 * `Brian Wentzloff <https://twitter.com/brianwentzloff>`_ on Cryptocurrencies
   and `@memcoin <https://twitter.com/memcoin>`_
-* `Scott Umstead <https://twitter.com/scottumsted>`_: Asynchronous Programming in python
+* `Scott Umstead <https://twitter.com/scottumsted>`_: Asynchronous Programming
+  in python. (`Slides <https://github.com/sumsted/mempy-async>`_)
 
 RSVP
 ----
