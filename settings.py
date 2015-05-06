@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-AUTHOR = u'Brad Montgomery'
+AUTHOR = u'The Memphis Python User Group'
 SITENAME = u'MEMpy'
 SITEURL = 'http://www.mempy.org'
 DEFAULT_CATEGORY = u'meetings'
