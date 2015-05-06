@@ -12,14 +12,29 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 REVERSE_CATEGORY_ORDER = True
 LOCALE = ""
 DEFAULT_PAGINATION = 2
+TAG_CLOUD_MAX_ITEMS = 6
+TAG_CLOUD_STEPS = 4
+THEME = 'themes/pelican-bootstrap3'
 
 TWITTER_USERNAME = 'MemphisPython'
 SOCIAL = (
-    ('Email', 'mailto:brad@mempy.org'),
-    ('Mailing List', 'http://bit.ly/mempy-google-group'),
-    ('Google+', 'https://plus.google.com/+MempyOrg/'),
+    ('Meetup.com', 'http://www.meetup.com/memphis-technology-user-groups/'),
     ('Twitter', 'http://twitter.com/MemphisPython'),
     ('Facebook', 'http://facebook.com/MemphisPython'),
+    ('Google+', 'https://plus.google.com/+MempyOrg/'),
+    ('Mailing List', 'http://bit.ly/mempy-google-group'),
+    ('Email Us', 'mailto:brad@mempy.org'),
 )
 
+LINKS = (
+    ('PyTN', 'https://www.pytennessee.org/'),
+    ('MTF', 'http://memphistechnology.org'),
+    ('HACKmemphis', 'http://hackmemphis.com/'),
+)
 GOOGLE_ANALYTICS = 'UA-46826960-1'
+
+# Bootstrap3 theme options
+SHOW_ARTICLE_AUTHOR = True
+SHOW_ARTICLE_CATEGORY = True
+SHOW_DATE_MODIFIED = True
+USE_PAGER = True
