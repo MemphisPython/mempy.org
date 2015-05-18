@@ -42,6 +42,6 @@ Please RSVP at one of the following:
 Agenda
 ------
 
-* Douglas Starnes review the [MEMpy flask and heroku tutorial](https://github.com/douglasstarnes/mempy-flask-heroku)
+* Douglas Starnes review the `MEMpy flask and heroku tutorial <https://github.com/douglasstarnes/mempy-flask-heroku>`_
 * List Comprehensions by James Sheppard
 * Learning from an Interactive Python book by Nadina Medlin
