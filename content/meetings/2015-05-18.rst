@@ -44,4 +44,4 @@ Agenda
 
 * Douglas Starnes review the `MEMpy flask and heroku tutorial <https://github.com/douglasstarnes/mempy-flask-heroku>`_
 * Learning from an Interactive Python book, `interactivepython.org <http://interactivepython.org/>`_ by Nadina Medlin
-* List Comprehensions by James Sheppard
+* `List Comprehensions <https://speakerdeck.com/tamarisk51/python-list-comprehension>`_  by James Sheppard
