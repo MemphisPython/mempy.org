@@ -27,9 +27,12 @@ Here's a link to a `Google Map <http://goo.gl/1D8dbU>`_.
 Agenda
 ------
 
-TBD: We plan to have a number of short, 10-15 minute talks this month. If you'd
+We plan to have a number of short, 10-15 minute talks this month. If you'd
 like to give a talk, join our `google group <http://bit.ly/mempy-google-group>`_
 and post your talk idea.
+
+* Joey Brown: `hylang <http://docs.hylang.org/>`_
+* Daniel Bozeman: synchronous and asynchronous http servers/clients in python and ruby
 
 RSVP
 ----
