@@ -13,36 +13,30 @@ based in or near Memphis, TN or seriously consider remote candidates.
 Jobs will typically be posted for a month.
 
 
-`CJRW is Seeking a Junior Web Developer <http://www.cjrw.com/blog/2015/apr/14/cjrw-seeking-web-developer/>`_
+`Tennessee Data Commons/Lead Mobile Developer <http://bit.ly/1Ja3aHq>`_
 ------------------------------------------------------------------------------------------------------------
 
 *Position Description*
 
-CJRW is seeking a junior web developer to join its growing and award winning Digital Team. Candidates must have experience with front-end and back-end web development.  Candidates must possess a strong desire to learn new technologies.  Candidates will be a focused, team player and have a working knowledge of basic web development technologies: including, but not limited to HTML/CSS, Javascript, content management systems, and server programming languages.  An ideal candidate would have experience using Python and Django, with some familiarity with Wordpress.
+We're looking for an experienced Android developer that can pick up an existing project, get up to speed quickly, and drive development forward:
 
-*Responsibilities*
+- Experience building Android apps
+- Proficient in Java
+- Ability to work with Android Studio
+- Familiarity with, understanding of, and ability to adhere to Material Design
+- Knowledge of RESTful APIs and the ability to optimize apps that depend on such APIs
+- Ability to support multiple-sized screens
+- Experience with testing
+- Excellent written and verbal communication skills
 
-- Work with our Senior developers, web designers, content strategists and project managers to plan and strategize an approach for each project.
-- Communicate expected issues, opportunities and ideas when approaching projects or tasks.
-- Develop the front-end and back-end of basic website platforms.
-- Assist in managing content on client websites when needed.
-- Assist in training clients on the websites that you specifically developed.
-- Provided development assistance to senior development, content and social media staff.
+*What you'll do*
 
-*Job Specifications/Qualifications*
+- Lead the development of our Android app, and ensure that our application is intuitive and friendly to our users
+- Participate in the UX/UI design of the app
+- Work with the development team to define and work with a REST API
+- Review code completed by other members of the team and suggest quality improvements
+- Write automated unit tests to ensure quality work and prevent regressions
+- Design and Implement intuitive and user-friendly User Interfaces
+- Complete work in a timely manner and deliver a quality product
 
-- Bachelor’s degree in computer science or related field preferred.
-- Working knowledge of HTML/CSS
-- Experience with a server-side programming language such as Python, PHP or Ruby
-- Ability to effectively organize workload and prioritize based off project deadlines.
-- Experience with database systems specifically PostgreSQL or MySQL and an understanding of proper database design.
-- Basic Linux Server Administration.
-
-*Not required, but a plus:*
-
-- SASS
-- Django/Python
-- Version control knowledge, specifically GIT.
-- Familiarity with test-driven developmenit
-
-Qualified candidates ONLY.  Please send resumes to employment@cjrw.com.
+See more details and Apply at `tndata.org/careers/lead-mobile-developer/ <http://bit.ly/1Ja3aHq>`_
