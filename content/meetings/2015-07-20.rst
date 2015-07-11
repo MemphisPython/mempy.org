@@ -1,0 +1,42 @@
+July 20, 2015
+#############
+
+:date: 2015-07-11 12:45
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, July 20th, 2015
+
+
+Location
+--------
+
+TBD! Stay tuned...
+
+Agenda
+------
+
+This month, we're planning on two talks:
+
+1. a short, intro-level python talk (~30minutes)
+2. A longer, more advanced talk (~60minutes)
+
+We don't have any speakers lined up yet, so if you'd like to give one of these,
+please join our `google group <http://bit.ly/mempy-google-group>`_
+and post your talk idea.
+
+RSVP
+----
+
+Food (Pizza) and Drinks will be provided, so please let us know if you plan to attend.
+
+Please RSVP at one of the following:
+
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/223853371/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
