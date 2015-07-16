@@ -28,14 +28,15 @@ Agenda
 ------
 
 1. James Sheppard on `Rosalind <http://rosalind.info/about/>`_ and Biopython.
-  Rosalind is an "online judge" that manages challenges starting from Python
-  For-Loops up through complex bioinformatics problems.  Biopython is the main
-  Python bioinformatics library; and it becomes ever more useful as the
-  Rosalind challenges get harder.  This would be great for both people who
-  are learning core concepts for the first time and those who simply enjoy
-  code puzzles.
+   Rosalind is an "online judge" that manages challenges starting from Python
+   For-Loops up through complex bioinformatics problems.  Biopython is the main
+   Python bioinformatics library; and it becomes ever more useful as the
+   Rosalind challenges get harder.  This would be great for both people who
+   are learning core concepts for the first time and those who simply enjoy
+   code puzzles.
 2. TBD (~30-60minutes)
 3. TBD (~30-60minutes)
+
 
 
 RSVP
