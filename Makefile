@@ -5,7 +5,7 @@ update:
 	git submodule update --remote --merge
 
 html:
-	pelican -o MemphisPython.github.io -s settings.py content
+	pelican -o MemphisPython.github.io -s settings.py
 
 deploy:
 	cd MemphisPython.github.io && git add -A && git commit -am "updating" && git push && cd ..

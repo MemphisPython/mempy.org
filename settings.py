@@ -18,7 +18,7 @@ THEME = 'themes/pelican-bootstrap3'
 
 TWITTER_USERNAME = 'MemphisPython'
 SOCIAL = (
-    ('Meetup.com', 'http://www.meetup.com/memphis-technology-user-groups/'),
+    ('Meetup', 'http://www.meetup.com/memphis-technology-user-groups/'),
     ('Twitter', 'http://twitter.com/MemphisPython'),
     ('Facebook', 'http://facebook.com/MemphisPython'),
     ('Google+', 'https://plus.google.com/+MempyOrg/'),
@@ -32,6 +32,11 @@ LINKS = (
     ('HACKmemphis', 'http://hackmemphis.com/'),
 )
 GOOGLE_ANALYTICS = 'UA-46826960-1'
+
+PATH = "content"
+PAGE_PATHS = ['pages']
+ARTICLE_PATHS = ['meetings', 'announcements']
+STATIC_PATHS = ["logos"]
 
 # Bootstrap3 theme options
 SHOW_ARTICLE_AUTHOR = True
