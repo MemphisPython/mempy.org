@@ -1,0 +1,44 @@
+August 17, 2015
+###############
+
+:date: 2015-08-13 07:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, August 17th, 2015
+
+
+Location
+--------
+
+This month's meeting is graciously hosted by `Cowork Memphis <http://coworkmemphis.com/>`_.
+
+| Cowork Memphis
+| 902 S. Cooper Street
+| Memphis, TN 38104
+
+Here's a link to a `Google Map <http://goo.gl/1D8dbU>`_.
+
+Agenda
+------
+
+* `Brad Montgomery <https://twitter.com/bkmontgomery>`_ Young Coders: What
+  I learned from volunteering at PyOhio.
+* `Douglas Starnes <https://twitter.com/poweredbyaltnet>`_ An introduction to
+  Pandas and IPython.
+
+RSVP
+----
+
+Food (Pizza) and Drinks will be provided, so please let us know if you plan to attend.
+
+Please RSVP at one of the following:
+
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/224471440/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
