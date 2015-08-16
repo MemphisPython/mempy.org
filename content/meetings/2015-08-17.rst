@@ -27,6 +27,7 @@ Here's a link to a `Google Map <http://goo.gl/1D8dbU>`_.
 Agenda
 ------
 
+* Nate Ferguson will give a short talk on GIS mapping and analysis tools.
 * `Brad Montgomery <https://twitter.com/bkmontgomery>`_ Young Coders: What
   I learned from volunteering at PyOhio.
 * `Douglas Starnes <https://twitter.com/poweredbyaltnet>`_ An introduction to
