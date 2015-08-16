@@ -32,6 +32,12 @@ As members of the python community, we are:
 
 -------------------------------------------------------------------------------
 
+Join us on Slack!
+-----------------
+
+Join the `#memtech slack team <http://www.memphistechnology.org/blog/2015/05/23/join-memtech-on-slack-chat/>`_, and then look for the **#mempy** channel. It's a great place
+to ask questions and share ideas.
+
 Contact Us
 ----------
 
