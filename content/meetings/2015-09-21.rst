@@ -30,7 +30,7 @@ Agenda
 
 Nate Ferguson and Eric Goddard: *Python and Geospatial Information*. This is
 a follow-up talk to the short talk from last month's meeting. Find their
-slides and resources at [github.com/uom-caeser/mempy-sept2015](https://github.com/uom-caeser/mempy-sept2015).
+slides and resources at `github.com/uom-caeser/mempy-sept2015 <https://github.com/uom-caeser/mempy-sept2015>`_.
 
 RSVP
 ----
