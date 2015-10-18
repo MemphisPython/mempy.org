@@ -17,12 +17,23 @@ Time & Date
 Location
 --------
 
-TBD! We will choose a location soon and update this post.
+This month's meeting is graciously hosted by `Cowork Memphis <http://coworkmemphis.com/>`_.
+
+| Cowork Memphis
+| 902 S. Cooper Street
+| Memphis, TN 38104
+
+Here's a link to a `Google Map <http://goo.gl/1D8dbU>`_.
+
 
 Agenda
 ------
 
-TBD. We're still working to develop an angenda for this month's meeting.
+This month's agenda and format is a _Surprise!_ We'll mostly likely have a
+short talk (possibly a python standard library module), but may also have
+a short tutorial as well. If we wrap up early, we'll do an informal project
+night / office hours. Have questions about something you're working on? Bring
+it and stick around to talk afterwards.
 
 RSVP
 ----
