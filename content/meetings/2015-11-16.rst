@@ -29,7 +29,7 @@ Here's a link to a `Google Map <http://goo.gl/1D8dbU>`_.
 Agenda
 ------
 
-* `Craig Kelly <https://twitter.com/binarydolphin>`_ talks about Distributing your code, ReadTheDocs, and TravisCI
+* `Craig Kelly <https://twitter.com/binarydolphin>`_ talks about Distributing your code, ReadTheDocs, and TravisCI; `slides on github <https://github.com/memphis-iis/GLUDB/tree/master/docs/presentation-mempy-Nov2015>`_
 
 
 RSVP
