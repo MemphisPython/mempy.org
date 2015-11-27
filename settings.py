@@ -35,7 +35,7 @@ GOOGLE_ANALYTICS = 'UA-46826960-1'
 
 PATH = "content"
 PAGE_PATHS = ['pages']
-ARTICLE_PATHS = ['meetings', 'announcements']
+ARTICLE_PATHS = ['memtech', 'meetings', 'announcements',]
 STATIC_PATHS = ["logos"]
 
 # Bootstrap3 theme options
