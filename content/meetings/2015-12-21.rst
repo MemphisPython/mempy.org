@@ -29,8 +29,8 @@ Here's a link to a `Google Map <http://goo.gl/1D8dbU>`_.
 Agenda
 ------
 
-* VIRTUAL FRUITCAKE! by `Douglas Starnes <https://twitter.com/poweredbyaltnet>`_
-* Fun with pictures by `Brad Montgomery <https://twitter.com/bkmontgomery>`_
+* `Virtual Fruitcake 2015 <https://docs.google.com/presentation/d/1HDIqBxIxhh4u8zPTvPRXUWK--eMxw_pekbxxYtPsEfo>`_ by `Douglas Starnes <https://twitter.com/poweredbyaltnet>`_
+* `Fun with pictures; a tour through Pillow <https://github.com/bradmontgomery/pillow-walkthru>`_ by `Brad Montgomery <https://twitter.com/bkmontgomery>`_
 
 
 RSVP
