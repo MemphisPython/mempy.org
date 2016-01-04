@@ -1,0 +1,46 @@
+January 18, 2016
+################
+
+:date: 2016-01-04 16:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+
+Time & Date
+-----------
+
+| Time: 6:30pm - 8:30pm
+| Date: Monday, January 18, 2016
+
+
+Location
+--------
+
+This month's meeting is graciously hosted by `Cowork Memphis <http://coworkmemphis.com/>`_.
+
+| Cowork Memphis
+| 902 S. Cooper Street
+| Memphis, TN 38104
+
+Here's a link to a `Google Map <http://goo.gl/1D8dbU>`_.
+
+
+Agenda
+------
+
+Guest Speaker: `Jason Myers <http://jasonamyers.com/index.php/about-me/>`_:
+
+SQLAlchemy is a popular database framework that provides an ORM and a schema centric query language, and in this talk we will take a look how to get started with the ORM. We'll learn how to establish connections to popular databases such as PostgreSQL and MySQL. Then we will look at how to define our models as user classes including relationships and persist them to the database. Next, we'll cover the how the SQLAlchemy session works with typical create, update, read, and delete operations. We'll wrap up with pointers of where to go next to learn more.
+
+
+RSVP
+----
+
+Food (Pizza) and Drinks will be provided, so please let us know if you plan to attend.
+
+Please RSVP at one of the following:
+
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/227756293/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
