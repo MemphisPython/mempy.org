@@ -31,8 +31,8 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- Special Guest!
-- Brad Montgomery: Context Managers
+- `Scott Umstead <https://twitter.com/scottumsted>`_: Fun projects on the Raspberry Pi
+- `Brad Montgomery <https://twitter.com/bkmontgomery>`_: Context Managers
 
 
 RSVP
