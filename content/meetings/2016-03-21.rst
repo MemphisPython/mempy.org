@@ -28,8 +28,8 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- `Scott Umstead <https://twitter.com/scottumsted>`_: Fun projects on the Raspberry Pi
-- `Brad Montgomery <https://twitter.com/bkmontgomery>`_: Context Managers
+- `Scott Umstead <https://twitter.com/scottumsted>`_: Fun projects on the Raspberry Pi (`repo on github <https://github.com/sumsted/mempy_20160321>`_)
+- `Brad Montgomery <https://twitter.com/bkmontgomery>`_: Context Managers (`slides <https://speakerdeck.com/bkmontgomery/context-managers>`_ and `sample code <https://gist.github.com/bradmontgomery/4f4934893388f971c6c5>`_)
 
 
 RSVP
