@@ -29,7 +29,7 @@ Agenda
 ------
 
 We need speakers! Have a talk idea? Get in touch with Brad (email
-`brad@mempy.org <mailto:brad@mempy.org>`_ or on twitter: `@bkmontgomery <https://twitter.com/bkmontgomery>`_).
+`brad@mempy.org <mailto:brad@mempy.org>`_ or tweet at: `@MemphisPython <https://twitter.com/memphispython>`_).
 
 Talks can be full-length, hour-long instructional/informative or shorter 5, 10,
 or 15-minute lightning-style talks. Topics related to Python are encouraged,
