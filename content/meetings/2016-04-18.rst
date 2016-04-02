@@ -1,0 +1,48 @@
+April 18, 2016
+##############
+
+:date: 2016-04-02 11:50
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+
+Time & Date
+-----------
+
+| Time: 6:30pm - 8:30pm
+| Date: Monday, April 18, 2016
+
+
+Location
+--------
+
+This month's meeting is graciously hosted by the
+`FedEx Institute of Technology <http://fedex.memphis.edu/>`_.
+Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
+
+- **Room**: FIT 225 (2nd floor)
+- **Parking**: The `Deloach Parking Garage <https://www.google.com/maps/d/viewer?mid=z7eJgDchpI68.kevkGtJ3KYwo>`_ is $2/hr, and is right across the street from the FedEx Institute of Technology (FIT). You can also buy a 1-day pass for general parking for $2 -- see `visitor parking <http://www.memphis.edu/parking/permit/visitor.php>`_ for more details.
+
+
+Agenda
+------
+
+We need speakers! Have a talk idea? Get in touch with Brad (email
+`brad@mempy.org <mailto:brad@mempy.org>`_ or on twitter: `@bkmontgomery <https://twitter.com/bkmontgomery>`_).
+
+Talks can be full-length, hour-long instructional/informative or shorter 5, 10,
+or 15-minute lightning-style talks. Topics related to Python are encouraged,
+but topics related to computing are welcome!
+
+
+RSVP
+----
+
+Food (Pizza) and Drinks will be provided, so please let us know if you plan to attend.
+
+Please RSVP at one of the following:
+
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/229022283/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
