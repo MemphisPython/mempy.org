@@ -10,12 +10,16 @@
 
     <ul class="list-group list-group-flush">
         {% if SOCIAL %}
-            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Connect with Us</span></h4>
               <ul class="list-group" id="social">
                 {% for name, link in SOCIAL %}
                     {% set name_sanitized = name|lower|replace('+','-plus')|replace(' ','-') %}
                     {% if name_sanitized in ['flickr', 'spotify', 'stack-overflow', 'weibo'] %}
                         {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-lg"' %}
+                    {% elif 'mail' in name_sanitized %}
+                        {% set iconattributes = '"fa fa-envelope-square fa-lg"' %}
+                    {% elif name_sanitized in ['meetup'] %}
+                        {% set iconattributes = '"fa fa-users fa-lg"' %}
                     {% else %}
                         {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-lg"' %}
                     {% endif %}

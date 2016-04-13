@@ -14,22 +14,26 @@ LOCALE = ""
 DEFAULT_PAGINATION = 2
 TAG_CLOUD_MAX_ITEMS = 6
 TAG_CLOUD_STEPS = 4
+DISPLAY_TAGS_ON_SIDEBAR = False
 THEME = 'themes/pelican-bootstrap3'
 
+USE_OPEN_GRAPH = True
+TWITTER_CARDS = True
 TWITTER_USERNAME = 'MemphisPython'
 SOCIAL = (
     ('Meetup', 'http://www.meetup.com/memphis-technology-user-groups/'),
     ('Twitter', 'http://twitter.com/MemphisPython'),
     ('Facebook', 'http://facebook.com/MemphisPython'),
-    ('Google+', 'https://plus.google.com/+MempyOrg/'),
     ('Mailing List', 'http://bit.ly/mempy-google-group'),
     ('Email Us', 'mailto:brad@mempy.org'),
 )
 
 LINKS = (
-    ('PyTN', 'https://www.pytennessee.org/'),
-    ('MTF', 'http://memphistechnology.org'),
+    ('WebWorkers', 'http://memphiswebworkers.com/'),
+    ('MemphisPHP', 'https://www.memphisphp.org/'),
     ('HACKmemphis', 'http://hackmemphis.com/'),
+    ('MTF', 'http://memphistechnology.org'),
+    ('PyTN', 'https://www.pytennessee.org/'),
 )
 GOOGLE_ANALYTICS = 'UA-46826960-1'
 
@@ -43,3 +47,4 @@ SHOW_ARTICLE_AUTHOR = True
 SHOW_ARTICLE_CATEGORY = True
 SHOW_DATE_MODIFIED = True
 USE_PAGER = True
+BOOTSTRAP_THEME = 'united'
