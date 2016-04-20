@@ -23,10 +23,5 @@ science class using Python this coming fall.  A masters degree is required
 enthusiasm could probably substitute.  The CS program at Rhodes has been
 growing incredibly quickly and demand for intro CS is through the roof.
 
-For additional details, contact:
-
-Phil Kirlin
-Dept of Math & CS
-Rhodes College
-Email: `kirlinp@rhodes.edu <mailto:kirlinp@rhodes.edu>`_
-Phone: 901-843-3725
+For additional details, contact Phil Kirlin, Dept of Math & CS at Rhodes College.
+Email: `kirlinp@rhodes.edu <mailto:kirlinp@rhodes.edu>`_ or Phone: 901-843-3725
