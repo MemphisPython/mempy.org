@@ -29,4 +29,4 @@ However, if you need to get your Python fix, a few of us are planning a road
 trip to visit `PyNash <http://pynash.org/>`_ on Thursday, June 23 at 6:00pm for
 an introduction to Django Channels.
 
-If you'd like to come along, please RSVP at `on the PyNash meetup <https://www.meetup.com/PyNash/events/231773313/>`, and get in touch with `Brad <mailto:brad@mempy.org>`_ / `@bkmontgomery <https://twitter.com/bkmontgomery>`_ or `Douglas <https://twitter.com/poweredbyaltnet>`_ for travel details.
+If you'd like to come along, please RSVP at `on the PyNash meetup <https://www.meetup.com/PyNash/events/231773313/>`_, and get in touch with `Brad <mailto:brad@mempy.org>`_ / `@bkmontgomery <https://twitter.com/bkmontgomery>`_ or `Douglas <https://twitter.com/poweredbyaltnet>`_ for travel details.
