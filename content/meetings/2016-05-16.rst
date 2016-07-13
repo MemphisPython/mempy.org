@@ -31,7 +31,6 @@ Agenda
 Join us for a night of interesting talks from two smart pythonistas:
 
 - Scott Umsted on hacking Amazon Alexa.
-- Tim Brownawell: "Generators: what they are, how to use them, how they work"
 
 
 RSVP
