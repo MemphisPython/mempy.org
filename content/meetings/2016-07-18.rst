@@ -29,8 +29,9 @@ Agenda
 ------
 
 - Tim Brownawell: "Generators: what they are, how to use them, how they work"
+  & code from his `rss-imap <https://github.com/tbrownaw/rss-imap>`_ project.
 
-*Have an talk you want to give? `Get in Touch <mailto:brad@mempy.org>`_ !*
+*Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
 RSVP
 ----
