@@ -14,7 +14,7 @@ their announcement:
     This 3-day hands-on workshop is designed for scientists and working professionals
     who would like to learn programming for basic and intermediate large-scale data
     analysis. Participants will learn how to program in Python and how to write short
-    programs to analyze data. Topics include:
+    programs to analyze data.
 
 This workshop promises to start with basical procedural programming in python,
 then build knowledge of object-oriented programming and data analysis using Pandas
