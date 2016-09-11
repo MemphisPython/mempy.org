@@ -28,7 +28,8 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- TBD.
+- Douglas Starnes: A quick into to Docker.
+- Brad Montgomery: digging into `jorendorff/indexor <https://github.com/jorendorff/indexor>`_, a toy search engine.
 
 *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
