@@ -28,7 +28,7 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- TBD.
+- "Coins are icky, surprising math with python - beginner level coding" by Tony!
 
 *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
