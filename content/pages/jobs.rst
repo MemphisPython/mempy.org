@@ -13,6 +13,20 @@ based in or near Memphis, TN or seriously consider remote candidates.
 Jobs will typically be posted for a month.
 
 
+Web Designer at SmartBear
+-------------------------
+
+SmartBear has played a role in the Uber you ordered, the banking app you use,
+the item you posted for auction, or that flight you just purchased. SmartBear's
+CrossBrowserTesting team is looking for a talented Web Designer. You will be a
+vital member of our team responsible for creating and optimizing our marketing
+website, emails, and website application tools. You will work closely with other
+team members in developing mock-up, generating graphics, and implementing
+HTML/CSS. The successful candidate will possess an eye for creative design and
+enjoy working in a fast-paced, albeit fun tech-culture environment.
+
+To learn more and apply, visit `https://smartbear.recruiterbox.com/jobs/fk064sc`_
+
 Python Instructor
 -----------------
 
