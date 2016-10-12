@@ -25,7 +25,8 @@ team members in developing mock-up, generating graphics, and implementing
 HTML/CSS. The successful candidate will possess an eye for creative design and
 enjoy working in a fast-paced, albeit fun tech-culture environment.
 
-To learn more and apply, visit `https://smartbear.recruiterbox.com/jobs/fk064sc`_
+To learn more and apply, visit
+`https://smartbear.recruiterbox.com/jobs/fk064sc <https://smartbear.recruiterbox.com/jobs/fk064sc>`_
 
 Python Instructor
 -----------------
