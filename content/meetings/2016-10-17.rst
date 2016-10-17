@@ -29,6 +29,7 @@ Agenda
 ------
 
 - Modules with `Tim Brownawelll <https://twitter.com/tbrownaw>`_.
+- Machine Learning with Stacy Voccia
 
 *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
