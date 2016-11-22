@@ -31,7 +31,7 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- How I work, by `Brad Montgomery <https://twitter.com/bkmontgomery>`_.
+- How I work (`slides <https://docs.google.com/presentation/d/1IQSFiMPM9y71cq0MJCXwch5w8pSBWjJHE2-xrGgKxq4/edit?usp=sharing>`_), by `Brad Montgomery <https://twitter.com/bkmontgomery>`_.
 
 *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
