@@ -28,7 +28,8 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-TBD.
+- "A brief intro to Django" - `Brad Montgomery <https://twitter.com/bkmontgomery/>`_.
+- "Django Rest Framework &amp; GIS" - Eric Goddard.
 
 *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
