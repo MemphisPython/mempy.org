@@ -29,7 +29,7 @@ Agenda
 ------
 
 - "A brief intro to Django" - `Brad Montgomery <https://twitter.com/bkmontgomery/>`_.
-- "Django Rest Framework &amp; GIS" - Eric Goddard.
+- "Django Rest Framework & GIS" - Eric Goddard.
 
 *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
