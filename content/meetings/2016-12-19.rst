@@ -28,8 +28,8 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- "A brief intro to Django" (slides from `A Whirlwind Tour <https://speakerdeck.com/bkmontgomery/django-a-whirlwind-tour-2016>`_ - `Brad Montgomery <https://twitter.com/bkmontgomery/>`_.
-- "`Django Rest Framework & GIS <https://github.com/egoddard/mempy-drf-gis>`" - Eric Goddard.
+- "A brief intro to Django" (slides from `A Whirlwind Tour <https://speakerdeck.com/bkmontgomery/django-a-whirlwind-tour-2016>`_) - `Brad Montgomery <https://twitter.com/bkmontgomery/>`_.
+- "`Django Rest Framework & GIS <https://github.com/egoddard/mempy-drf-gis>`_" - Eric Goddard.
 
 *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
