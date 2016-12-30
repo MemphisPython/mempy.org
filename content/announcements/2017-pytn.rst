@@ -1,0 +1,28 @@
+It's time for PyTennessee, 2017
+###############################
+
+:date: 2016-12-30 10:15
+:tags: python, conference, pytn, tennessee
+:category: announcements
+:author: Brad Montgomery
+
+
+It's that time of the year, again. 2016 is almost over and it's time to slow,
+down, reflect, and remember how great `PyTennessee <https://www.pytennessee.org/>`_
+was. Now, let's get excited because that means PyTN 2017 is just around the corner!
+
+
+That's right! The region's preeminent Python conference is happening February
+4-5, 2017 in Nashville, TN. `Registration is currently open <https://www.eventbrite.com/e/pytennessee-2017-tickets-26899174154>`_,
+and you can grab a ticket for the low-low price of $60.
+
+
+"How can such a great conference, with speakers from all over the world be
+so cheap", you ask? It's only because of the generosity of the
+`PyTN Sponsors <https://www.pytennessee.org/sponsors/>`_  that this can happen.
+Thank you sponsors! (Don't see your company there?
+`There's still time to become a sponsor <https://www.pytennessee.org/sponsors/prospectus/>`_!
+
+
+To keep up with what's happening with the conference, be sure to follow
+them on twitter at `@PyTennessee <https://twitter.com/pytennessee>`_.
