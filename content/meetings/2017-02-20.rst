@@ -1,0 +1,40 @@
+February 20, 2017
+#################
+
+:date: 2017-02-08 14:40
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+
+Join us for the February meeting of the Memphis Python User Group.
+
+Time & Date
+-----------
+
+| Time: 6:00pm - 8:00pm
+| Date: Monday, February 20, 2017
+
+
+Location
+--------
+
+We'll again, be graciously hosted by the
+`FedEx Institute of Technology <http://fedex.memphis.edu/>`_.
+Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
+
+- **Room**: FIT 225 (2nd floor)
+- **Parking**: The `Deloach Parking Garage <https://www.google.com/maps/d/viewer?mid=z7eJgDchpI68.kevkGtJ3KYwo>`_ is $3/hr, and is right across the street from the FedEx Institute of Technology (FIT). You can also buy a 1-day pass for general parking for $3 -- see `visitor parking <http://www.memphis.edu/parking/permit/visitor.php>`_ for more details.
+
+
+Agenda
+------
+
+- TBD
+
+*Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
+
+RSVP
+----
+
+Please RSVP on `Meetup.com <https://www.meetup.com/memphis-technology-user-groups/events/233370160/>`_.
