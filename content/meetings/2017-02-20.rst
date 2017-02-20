@@ -30,7 +30,8 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- TBD
+- Scott Umstead talks about Chatbots and Amazon Lex
+- tbd
 
 *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
