@@ -30,7 +30,8 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- TBD
+- Double Ended Queue and You -- Douglas Starnes
+- Collaborating with git -- Brad Montgomery
 - *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
 Talks vary in length from 15 minutes to an hour, and we sometimes have 1-2 talks
