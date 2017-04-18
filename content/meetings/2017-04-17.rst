@@ -30,8 +30,8 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- Tim Brownawell on the joys of imaplib (`Code on Github <https://github.com/tbrownaw/rss-imap>`_).
-- Tony: import turtle and context managers (`Code on Github <https://github.com/tonetheman/pymem_201704>`_).
+- Tim Brownawell on the joys of imaplib: (`github.com/tbrownaw/rss-impa <https://github.com/tbrownaw/rss-imap>`_).
+- Tony: import turtle and context managers: (`github.com/tonetheman/pymem_201704 <https://github.com/tonetheman/pymem_201704>`_).
 - *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
 
 Talks vary in length from 15 minutes to an hour, and we sometimes have 1-2 talks
