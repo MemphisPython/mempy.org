@@ -30,8 +30,8 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- *TBD*.
-- *Have an talk you want to give?* `Get in Touch <mailto:brad@mempy.org>`_!
+**Network emulation in Python with Mininet, Named-Data Networks, and a Python Bot** by Ashlesh Gawande.
+
 
 Talks vary in length from 15 minutes to an hour, and we sometimes have 1-2 talks
 a meeting, and may cover anything related to Python and/or programming in general.
