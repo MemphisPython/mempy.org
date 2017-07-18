@@ -30,7 +30,7 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-**Release and Dependency Management** by Joe Ferguson.
+**Release and Dependency Management** by Joe Ferguson. (`slides <https://www.slideshare.net/svpernova09/release-anddependencymanagement-memphis-python>`_)
 
 
 Talks vary in length from 15 minutes to an hour, and we sometimes have 1-2 talks
