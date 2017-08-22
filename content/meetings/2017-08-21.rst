@@ -31,7 +31,7 @@ Agenda
 ------
 
 - Harold Schreckengost: I made my C&C server!
-- Brad Montgomery: digging into dictionaries.
+- George Spake's adventures in web scraping.
 
 
 Talks vary in length from 15 minutes to an hour, and we sometimes have 1-2 talks
