@@ -30,6 +30,7 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
+- Jason Myers: My HACKmemphis project.
 - Brad Montgomery's Django tips.
 
 
