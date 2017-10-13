@@ -9,6 +9,17 @@ You can get it with::
     pip install -r requirements.txt
 
 
+Cloning this repo
+-----------------
+
+To get started, you'll need to clone this repo, but it also contains
+a submodule for MemphisPython.github.io_, so you'll need to do::
+
+    git submodule init
+
+See the section on `git submodules`_ for additional details.
+
+
 How to add content
 ------------------
 
@@ -35,3 +46,5 @@ If you have access to the appropriate repo, here's what you do to publish:
 4. Profit?
 
 .. _`pelican`: http://alexis.notmyidea.org/pelican/
+.. _`MemphisPython.github.io`: https://github.com/MemphisPython/MemphisPython.github.io
+.. _`git submodules`: https://git-scm.com/book/en/v2/Git-Tools-Submodules#_cloning_submodules
