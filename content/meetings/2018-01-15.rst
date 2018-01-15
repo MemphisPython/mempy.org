@@ -1,0 +1,38 @@
+January 15, 2018
+#################
+
+:date: 2018-01-15 08:30
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+
+**Happy New Year! Join us for our first meeting of 2018**
+
+Time & Date
+-----------
+
+| Time: 6:00pm - 8:00pm
+| Date: Monday, January 15, 2018
+
+
+Location
+--------
+
+This week we'll be hosted by `Tech90 <http://tech901.org/>`_, at Crosstown
+Concourse at 1350 Concourse Avenue. We will be in the eastern-most atrium on
+the 3rd floor. Look for a large box with the Tech901 logo.
+
+Parking in the Crosstown Concourse garage is free.
+
+Agenda
+------
+
+- Douglas Starnes on `Keras <https://keras.io/>`, a Deep Learning library.
+- Brad Montgomery on Teaching & Learning technology in Memphis.
+
+
+RSVP
+----
+
+Please RSVP on `Meetup.com <https://www.meetup.com/memphis-technology-user-groups/events/246067512/>`_.
