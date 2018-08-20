@@ -6,6 +6,7 @@ About MEMpy
 :category: about
 :author: Brad montgomery
 
+**The Memphis Python user group meets monthly on the third Monday of the month.**
 
 We are students, teachers, professionals, and hobbyists. Some of us build
 apps for the web, while others are sysadmins or DBAs. Some of us are researchers
