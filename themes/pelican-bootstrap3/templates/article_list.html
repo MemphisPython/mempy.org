@@ -1,5 +1,13 @@
 {% extends "base.html" %}
 {% block content %}
+
+  <div class="alert alert-info" role="alert">
+    <strong><i class="fa fa-warning"></i> Look for us on meetup.com</strong>
+    <p>For the most up-to-date information on our meetings, look for the
+    Python User Group on the <strong><a href="https://www.meetup.com/memphis-technology-user-groups/events/">
+    Memphis Technology User Groups meetup account</a></strong>.</p>
+  </div>
+
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
