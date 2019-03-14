@@ -1,7 +1,7 @@
 Marh 18, 2019
 #############
 
-:date: 2019-03-131 22:00
+:date: 2019-03-13 22:00
 :tags: meetings
 :category: meetings
 :author: Brad Montgomery
