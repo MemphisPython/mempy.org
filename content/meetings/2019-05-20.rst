@@ -30,7 +30,7 @@ Here's a link to a `Google Map <https://goo.gl/RsjTJb>`_.
 Agenda
 ------
 
-- Tim Brownawell
+- Tim Brownawell: Running Python in Docker
 
 RSVP
 ----
