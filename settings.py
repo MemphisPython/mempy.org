@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 AUTHOR = u'The Memphis Python User Group'
 SITENAME = u'MEMpy'
-SITEURL = 'http://www.mempy.org'
+SITEURL = 'https://www.mempy.org'
 DEFAULT_CATEGORY = u'meetings'
 GITHUB_URL = 'https://github.com/MemphisPython'
 PDF_GENERATOR = False
@@ -21,25 +21,25 @@ USE_OPEN_GRAPH = True
 TWITTER_CARDS = True
 TWITTER_USERNAME = 'MemphisPython'
 SOCIAL = (
-    ('Meetup', 'http://www.meetup.com/memphis-technology-user-groups/'),
-    ('Twitter', 'http://twitter.com/MemphisPython'),
-    ('Facebook', 'http://facebook.com/MemphisPython'),
-    ('Mailing List', 'http://bit.ly/mempy-google-group'),
+    ('Meetup', 'https://www.meetup.com/memphis-technology-user-groups/'),
+    ('Twitter', 'https://twitter.com/MemphisPython'),
+    ('Facebook', 'https://facebook.com/MemphisPython'),
+    ('Mailing List', 'https://bit.ly/mempy-google-group'),
     ('Email Us', 'mailto:brad@mempy.org'),
 )
 
 LINKS = (
-    ('WebWorkers', 'http://memphiswebworkers.com/'),
+    ('WebWorkers', 'https://memphiswebworkers.com/'),
     ('MemphisPHP', 'https://www.memphisphp.org/'),
-    ('HACKmemphis', 'http://hackmemphis.com/'),
-    ('MTF', 'http://memphistechnology.org'),
+    ('HACKmemphis', 'https://hackmemphis.com/'),
+    ('MTF', 'https://memphistechnology.org'),
     ('PyTN', 'https://www.pytennessee.org/'),
 )
 GOOGLE_ANALYTICS = 'UA-46826960-1'
 
 PATH = "content"
 PAGE_PATHS = ['pages']
-ARTICLE_PATHS = ['memtech', 'meetings', 'announcements',]
+ARTICLE_PATHS = ['memtech', 'meetings', 'announcements']
 STATIC_PATHS = ["logos"]
 
 # Bootstrap3 theme options
